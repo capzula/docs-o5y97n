@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-m6vtzv.salamcuan.cfd/sitemap.xml
